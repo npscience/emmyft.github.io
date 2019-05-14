@@ -1,27 +1,28 @@
 body {
   width: 100%;
   margin: 50;
+  background-color: #FFC44C;
 }
 h1 {
 	font-family: sans-serif;
-	font-weight: bold;
+	font-weight: 100;
 	text-align: left;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	padding-left: 100px;
 	padding-right: 100px;
-	color: #acd1b2;
+	color: #ffffff;
 }
 
 h2 {
 	font-family: sans-serif;
-	font-weight: bold;
+	font-weight: 100;
 	text-align: left;
 	padding-top: 15px;
 	padding-bottom: 5px;
 	padding-left: 100px;
 	padding-right: 100px;
-	color: #acd1b2;
+	color: #ffffff;
 }
 p {
 	font-family: sans-serif;
