@@ -1,1 +1,3 @@
-has nothing to do with Jekyll - just simple CSS and html atm!
+Largely based on Danielle's personal site.
+
+Plus loads of bio stuff Ctrl+C-ed from various places.
