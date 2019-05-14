@@ -5,6 +5,7 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 
 #### Events
 Event | Location | Date | Role | Description
+-------- | ------ | ---- | ---- | ----------------------
 [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | placeholder placeholder
 [Wholetale workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) | Chicago, US | Sep 13-14, 2018 | Lightning Talk | [Slides on reproducibility](https://figshare.com/articles/eLife_Reproducible_Document_Stack_lightning_talk_WholeTale_workshop_September_2018/7076822)
 [Software Deposition Workshop](https://www.eventbrite.co.uk/e/software-deposit-and-preservation-workshop-tickets-46441779613) | July 11, 2018 | Speaker | [Slides](https://figshare.com/articles/Software_preservation_a_publisher_s_perspective/6799097)
