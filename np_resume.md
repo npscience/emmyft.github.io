@@ -38,7 +38,7 @@ reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstrac
 
 #### Education
 
-2016 - PhD in Clinical Pharmacology, University of Cambridge
+2016 - PhD in Clinical Biochemistry, University of Cambridge
 
 2012 - MRes, University of Cambridge
 
