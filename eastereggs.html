@@ -7,17 +7,17 @@
 
 	<script type="text/javascript">
 	var image = new Array ();
-  image[0] = "https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif";
-  image[1] = "https://media.giphy.com/media/fMzz6K35imbngERmem/giphy.gif";
-  image[2] = "https://media.giphy.com/media/5BUNXnpYM1FXsTRa8c/giphy.gif";
-  image[3] = "https://media.giphy.com/media/ftewB131lbLK9wHeTz/giphy.gif";
-  var size = image.length
-function displayImage(){
+	  image[0] = "https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif";
+	  image[1] = "https://media.giphy.com/media/fMzz6K35imbngERmem/giphy.gif";
+	  image[2] = "https://media.giphy.com/media/5BUNXnpYM1FXsTRa8c/giphy.gif";
+	  image[3] = "https://media.giphy.com/media/ftewB131lbLK9wHeTz/giphy.gif";
+	  var size = image.length
+	function displayImage(){
 
     //the first statement should generate a random number in the range 0 to 6 (the subscript values of the image file names in the imagesArray)
     var num = Math.floor(Math.random() * 4); // 0...6
     //the second statement display the random image from the imagesArray array in the canvas image using the random number as the subscript value
-    document.canvas.src = imagesArray[num];
+    document.canvas.src = image[num];
 
 }
 	
