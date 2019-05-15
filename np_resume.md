@@ -5,7 +5,8 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 
 #### Events
 Event | Location | Date | Role | Description
--------- | ------ | ---- | ---- | ----------------------
+-------- | ------ | ------ | ---- | --------------------
+[Neuroinformatics 2019](https://www.neuroinformatics2019.org) | Warsaw, Poland | Sep 1-2, 2019 | Keynote | placeholder
 [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | placeholder placeholder
 [Wholetale workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) | Chicago, US | Sep 13-14, 2018 | Lightning Talk | [Slides on reproducibility](https://figshare.com/articles/eLife_Reproducible_Document_Stack_lightning_talk_WholeTale_workshop_September_2018/7076822)
 [Software Deposition Workshop](https://www.eventbrite.co.uk/e/software-deposit-and-preservation-workshop-tickets-46441779613) | Oxford, UK | July 11, 2018 | Speaker | [Slides](https://figshare.com/articles/Software_preservation_a_publisher_s_perspective/6799097)
@@ -25,12 +26,15 @@ ODSC East | Boston, US | May 3-5, 2017 | Participant | placeholder
 csv,conf,v3 | Portland, US | May 2-3, 2017 | Speaker | [Slides](https://figshare.com/articles/csvconfv3-presentation/4964999)
 
 #### Writing
-* eLife Labs (2016-2018): elifesciences.org/labs
+* [Charting the Dimensions of Preprint Policies](https://cdn.ymaws.com/www.ismte.org/resource/resmgr/eon_shared_articles/Charting_the_Dinemsions.pdf)
 * [Getting ahead of the curve as a community manager](https://medium.com/@npscience/getting-ahead-of-the-curve-as-a-community-manager-922dfc3d0f6f)
 * [An agile community strategy — or how to use OKRs to say no and stay focused](https://blog.trelliscience.com/an-agile-community-strategy-or-how-to-use-okrs-to-say-no-and-stay-focused/)
+* eLife Labs (2016-2018): elifesciences.org/labs
+* [The Reproducible Document Stack reinvents the journal publication for a world of computationally
+reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstract.pdf)
 * [eLife Innovation Sprint 2018 - FAQ](https://medium.com/@npscience/elife-innovation-sprint-2018-faqs-a4332c735d0b)
 * [Fostering collaboration at MozFest](https://medium.com/@npscience/fostering-collaboration-at-mozfest-dc5e8c9246e1)
-
+* [Science communication: Know your audience](http://blogs.nature.com/naturejobs/2015/08/21/science-communication-know-your-audience/)
 
 #### Education
 
