@@ -5,7 +5,7 @@ Twitter [@npscience](https://twitter.org/npscience) | [ORCID](http://orcid.org/0
 
 #### Events
 Event | Location | Date | Role | Description
--------- | ------ | ------ | ---- | --------------------
+-------- | ------ | -------- | ---- | ------------
 [Neuroinformatics 2019](https://www.neuroinformatics2019.org) | Warsaw, Poland | Sep 1-2, 2019 | Keynote | placeholder
 [CCBI Annual Symposium](https://www.eventbrite.co.uk/e/ccbi-annual-symposium-tickets-60726345133) | Cambridge, UK | May 15, 2019 | Speaker | placeholder placeholder
 [Wholetale workshop](https://wholetale.org/2018/06/26/working-group-workshop.html) | Chicago, US | Sep 13-14, 2018 | Lightning Talk | [Slides on reproducibility](https://figshare.com/articles/eLife_Reproducible_Document_Stack_lightning_talk_WholeTale_workshop_September_2018/7076822)
