@@ -29,7 +29,7 @@ csv,conf,v3 | Portland, US | May 2-3, 2017 | Speaker | [Slides](https://figshare
 * [Charting the Dimensions of Preprint Policies](https://cdn.ymaws.com/www.ismte.org/resource/resmgr/eon_shared_articles/Charting_the_Dinemsions.pdf)
 * [Getting ahead of the curve as a community manager](https://medium.com/@npscience/getting-ahead-of-the-curve-as-a-community-manager-922dfc3d0f6f)
 * [An agile community strategy — or how to use OKRs to say no and stay focused](https://blog.trelliscience.com/an-agile-community-strategy-or-how-to-use-okrs-to-say-no-and-stay-focused/)
-* eLife Labs (2016-2018): [[elifesciences.org/labs]]
+* eLife Labs (2016-2018): [elifesciences.org/labs]
 * [The Reproducible Document Stack reinvents the journal publication for a world of computationally
 reproducible research](https://zenodo.org/record/1311612/files/RO2018-RDSabstract.pdf)
 * [eLife Innovation Sprint 2018 - FAQ](https://medium.com/@npscience/elife-innovation-sprint-2018-faqs-a4332c735d0b)
