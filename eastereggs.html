@@ -7,15 +7,27 @@
 
 	<script type="text/javascript">
 	var image = new Array ();
-	  image[0] = "https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy.gif";
-	  image[1] = "https://media.giphy.com/media/fMzz6K35imbngERmem/giphy.gif";
-	  image[2] = "https://media.giphy.com/media/5BUNXnpYM1FXsTRa8c/giphy.gif";
-	  image[3] = "https://media.giphy.com/media/ftewB131lbLK9wHeTz/giphy.gif";
+	  image[0] = "https://media.giphy.com/media/r997ekHoZ6jdK/giphy.gif";
+	  image[1] = "https://media.giphy.com/media/1zFuyZJMs5cXK/giphy.gif";
+	  image[2] = "https://media.giphy.com/media/4N95bSz7Q4t9zZEouu/giphy.gif";
+	  image[3] = "https://media.giphy.com/media/5mMK97s2KxpLy/giphy.gif";
+	  image[4] = "https://media.giphy.com/media/U1DQ4REx2ZMI/giphy.gif";
+	  image[5] = "https://media.giphy.com/media/dudYanotFfbsk/giphy.gif";
+	  image[6] = "https://media.giphy.com/media/3o7521aqrjOxrUP9Bu/giphy.gif";
+	  image[7] = "https://media.giphy.com/media/9rewRL6yCk6tvOwz6S/giphy.gif";
+	  image[8] = "https://media.giphy.com/media/ERc1EaVfHOq4w/giphy.gif";
+	  image[9] = "https://media.giphy.com/media/1lBJjvsYS9pkkH7UmJ/giphy.gif";
+	  image[10] = "https://media.giphy.com/media/MchHexoiIFQdrwNpbF/giphy.gif";
+	  image[11] = "https://media.giphy.com/media/Gd55pKEFv7eG4/giphy.gif";
+	  image[12] = "https://media.giphy.com/media/l2JhMlHSgnj0LdVCw/giphy.gif";
+	  image[13] = "https://media.giphy.com/media/XCi8vkLH8Sliw/giphy.gif";
+	  image[14] = "https://media.giphy.com/media/KL7xA3fLx7bna/giphy.gif";
+	  image[15] = "https://media.giphy.com/media/14udF3WUwwGMaA/giphy.gif";
 	  var size = image.length
 	function displayImage(){
 
     //the first statement should generate a random number in the range 0 to 6 (the subscript values of the image file names in the imagesArray)
-    var num = Math.floor(Math.random() * 4); // 0...6
+    var num = Math.floor(Math.random() * 15); // 0...15
     //the second statement display the random image from the imagesArray array in the canvas image using the random number as the subscript value
     document.canvas.src = image[num];
 
