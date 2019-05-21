@@ -23,11 +23,15 @@
 	  image[13] = "https://media.giphy.com/media/XCi8vkLH8Sliw/giphy.gif";
 	  image[14] = "https://media.giphy.com/media/KL7xA3fLx7bna/giphy.gif";
 	  image[15] = "https://media.giphy.com/media/14udF3WUwwGMaA/giphy.gif";
+	  image[16] = "https://media.giphy.com/media/QQgcoDDK95Qdy/giphy.gif";
+	  image[17] = "https://media.giphy.com/media/3ohhwgTnS3h2GaIqiY/giphy.gif";
+	  image[18] = "https://media.giphy.com/media/ctNDDU3a4ffK1su6yJ/giphy.gif";
+	  image[19] = "https://media.giphy.com/media/3ohzdP6ho8waq7BxJe/giphy.gif";
 	  var size = image.length
 	function displayImage(){
 
     //the first statement should generate a random number in the range 0 to 6 (the subscript values of the image file names in the imagesArray)
-    var num = Math.floor(Math.random() * 15); // 0...15
+    var num = Math.floor(Math.random() * 20); // 0...15
     //the second statement display the random image from the imagesArray array in the canvas image using the random number as the subscript value
     document.canvas.src = image[num];
 
